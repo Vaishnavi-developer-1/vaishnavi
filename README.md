@@ -45,8 +45,8 @@ public class Vaishnavi {
 
 ---
 
-## 🛠️ Tech Stack
-
+##                                                             Tech Stack
+<div align="center">
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -78,13 +78,13 @@ public class Vaishnavi {
 ---
 
 
+</div>
 
 
 
 
 
-
-## 💼 Work Experience
+##                                                                 Work Experience
 
 <details>
 <summary>🏢 <strong>TANSAM (Siemens)</strong> — AI/ML Intern | Mar 2024 · Chennai, India (On-site)</summary>
@@ -112,7 +112,7 @@ public class Vaishnavi {
 
 ---
 
-## 🚀 Featured Projects
+##                                                              Featured Projects
 
 <div align="center">
 
@@ -125,7 +125,7 @@ public class Vaishnavi {
 
 ---
 
-## 🏅 Achievements
+##                                                                        Achievements
 
 <div align="center">
 
@@ -154,14 +154,31 @@ public class Vaishnavi {
 
 ---
 
-## 🌱 Currently Learning
+##                                                          Currently Learning
 
 ```
-🧱 Microservices    → Spring Boot · Docker · Service Discovery
-⚛️  Advanced React  → Context API · Custom Hooks · Performance Optimization
-🤖 AI / ML       → Supervised Learning · Neural Networks · Model Training
-🐍 Python for AI → NumPy · Pandas · Scikit-learn · Matplotlib
-🧠 Deep Learning → TensorFlow · Keras · CNN · NLP Basics
+🧱 Microservices 
+ · Spring Boot
+ · Docker
+ · Service Discovery
+⚛️ Advanced React
+ · Context API
+ · Custom Hooks
+ · Performance Optimization
+🤖 AI / ML
+ · Supervised Learning
+ · Neural Networks
+ · Model Training
+🐍 Python for AI
+ · NumPy
+ · Pandas
+ · Scikit-learn
+ · Matplotlib
+🧠 Deep Learning
+ · TensorFlow
+ · Keras
+ · CNN
+ · NLP Basics
 ```
 
 ---
