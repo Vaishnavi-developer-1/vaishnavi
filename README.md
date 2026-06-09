@@ -17,7 +17,7 @@ public class Vaishnavi {
 
     String name         = "Vaishnavi R";
     String location     = "Chennai, India 🇮🇳";
-    String degree       = "B.Tech Information Technology (Final Year)";
+    String degree       = "B.Tech Information Technology ";
     String college      = "St. Joseph College of Engineering";
     float  cgpa         = 8.0f;
 
@@ -77,30 +77,12 @@ public class Vaishnavi {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/vaishur2004">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishur2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/vaishur2004">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishur2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
 
 
 
 
 
-## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishur2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -137,7 +119,7 @@ public class Vaishnavi {
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
 | [**Portfolio Template**](https://vaishnavi-portfolio-2004.netlify.app/) | HTML · CSS · JavaScript · Bootstrap | Fully responsive from scratch · Smooth animations · Project gallery · Mobile-first layout · Contact form |
-| [**Creative Habitat Garden**](https://github.com/vaishur2004) | React · JavaScript · CSS | Interactive UI · Grid-based layout · Animations · Full state management · Reusable components |
+| [**Creative Habitat Garden**](https://github.com/Vaishnavi-developer-1/garden-habitat) | React · JavaScript · CSS | Interactive UI · Grid-based layout · Animations · Full state management · Reusable components |
 
 </div>
 
